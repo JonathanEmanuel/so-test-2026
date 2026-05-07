@@ -9,3 +9,12 @@ h1 {
 .logo {
     width: 128px;
 }
+
+form {
+    border: 2px solid #0234;
+    padding: 10px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
